@@ -1,0 +1,12 @@
+link para manual do h2 database: "https://www.springboottutorial.com/spring-boot-and-h2-in-memory-database"
+
+H2 provides a web interface called H2 Console to see the data. Let’s enable h2 console in the application.properties.
+
+/src/main/resources/application.properties
+
+# Enabling H2 Console
+spring.h2.console.enabled=true
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.data.jpa.repositories.bootstrap-mode=default
+
+When you reload the application, you can launch up H2 Console at http://localhost:8080/h2-console.

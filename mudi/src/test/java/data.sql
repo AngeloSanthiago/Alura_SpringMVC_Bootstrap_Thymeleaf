@@ -1,0 +1,2 @@
+-- INSERT INTO "PEDIDO"("ID","DATA_DA_ENTREGA","DESCRICAO","NOME_PRODUTO","URL_IMAGEM","URL_PRODUTO","VALOR_NEGOCIADO")
+--        VALUES(1,'2022-05-17','Xiaomi Azul','Xiaomi Redmi Note 8','images\\Usado-Xiaomi-Redmi-Note-8-64gb-Azul.jpg','https://www.kabum.com.br/produto/192379/usado-xiaomi-redmi-note-8-64gb-azul-muito-bom?gclid=CjwKCAiA4KaRBhBdEiwAZi1zztcdUkzifFMko7S50l2wAuF2stDzKx-Knyf3Pdd7JvZa2Q_mWN3fSRoCTxgQAvD_BwE','10');
