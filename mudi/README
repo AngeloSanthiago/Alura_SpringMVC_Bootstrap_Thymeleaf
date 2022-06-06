@@ -9,4 +9,5 @@ spring.h2.console.enabled=true
 spring.datasource.url=jdbc:h2:mem:testdb
 spring.data.jpa.repositories.bootstrap-mode=default
 
-When you reload the application, you can launch up H2 Console at http://localhost:8080/h2-console.
+When you reload the application, you can launch up H2 Console at "http://localhost:8080/h2-console".
+Pressionar "Connect" para conectar
