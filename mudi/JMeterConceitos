@@ -1,3 +1,6 @@
 O que é jsr223?(Fonte:"https://comozed.com/quantos-dias-vai-demorar-para-aprender-jmeter")
   JSR223 (especificação) é uma API de script padrão para linguagens Java Virtual Machine (JVM).
   As linguagens JVM fornecem vários níveis de suporte para a API JSR223 e interoperabilidade com o tempo de execução Java.
+  
+JMS Java Message Service(fonte: "https://www.oracle.com/br/technical-resources/articles/sounds/working-with-messages-jms-osb.html#:~:text=Java%20Message%20Service%2C%20ou%20JMS,podem%20se%20comunicar%20por%20mensagens.")
+Java Message Service, ou JMS, é uma API da linguagem Java para middleware orientado à mensagens onde através da API JMS duas ou mais aplicações podem se comunicar por mensagens.
